@@ -1,2 +1,5 @@
-# flutter
-temporal branch to check default branch setting
+Name: juweeria mohamed hussein
+ID:C199877
+Class: CA192
+
+ my flutter assignment
